@@ -37,7 +37,10 @@ Para que WInstallAPK funcione correctamente necesitas:
   - `AdbWinUsbApi.dll`
 - Sistema operativo: **Windows 10** o **Windows 11**
 
-> ⚠️ **Importante:** Si no tienes activado WSA, esta herramienta **no funcionará**. Puedes instalarlo desde la **Microsoft Store** o siguiendo las guías oficiales de Microsoft sobre cómo activar el Subsistema de Windows para Android.
+> ⚠️ Importante: Si no tienes activado WSA, esta herramienta no funcionará.
+Aunque Microsoft ha eliminado el acceso oficial a WSA y WSATools, aún puedes instalar WSA manualmente con versiones actualizadas gracias a la comunidad.
+Puedes obtener builds de WSA desde este repositorio comunitario:
+👉 https://github.com/MustardChef/WSABuilds
 
 ---
 
